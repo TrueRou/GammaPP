@@ -23,3 +23,7 @@ Press Alt + \\ to switch between displays
 ## Downloads
 
 Go to Releases
+
+## Thanks
+
+[HotKey-Gamma](https://github.com/wasupandceacar/HotKey-Gamma)
